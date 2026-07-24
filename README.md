@@ -1,16 +1,30 @@
-## Hi there 👋
+# Sup Shree here
 
-<!--
-**DevShreeom/devshreeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer who leverages AI tools to rapidly design, build, and ship web applications.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+* **Solo Developer & Creator:** Built and deployed the full-stack tracking dashboard for a popular YouTube study community (**Factorial Academy**), serving 600+ active students.
+* **AI-Assisted Engineering:** Using AI as a force multiplier to handle design, front-end logic, and database integrations at lightning speed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### Languages & Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,firebase,github,vscode,figma)](https://skillicons.dev)
+
+* **Languages:** JavaScript (ES6+), Python, HTML5, CSS3
+* **Full-Stack & Cloud:** Firebase (Firestore, Auth), GitHub Pages, REST APIs
+* **Workflows:** AI-Assisted Prompt Engineering, UI/UX Glassmorphism Design, Responsive Web Design
+
+---
+
+### 📊 Projects
+* **[Factorial Academy Web Platform](https://www.factorialacademy.com)** *Built a full-featured JEE preparation dashboard for a YouTube educator's student community.*
+  * Features live online student counter, custom revision notes engine, QOTD library, teacher analytics, and live leaderboards.
+  * *Tech:* Vanilla JS, CSS3, Firebase, GitHub Pages.
+
+---
+
+💬 **Ask me about:** Web Development, AI prompting, or building apps for online communities!
+
