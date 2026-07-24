@@ -11,7 +11,7 @@ I'm a full-stack developer who leverages AI tools to rapidly design, build, and 
 ### 🛠️ Tech Stack & Tools
 
 #### Languages & Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,firebase,github,replit,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,firebase,github,vscode)](https://skillicons.dev)
 
 * **Languages:** JavaScript (ES6+), Python, HTML5, CSS3
 * **Full-Stack & Cloud:** Firebase (Firestore, Auth), GitHub Pages, REST APIs
