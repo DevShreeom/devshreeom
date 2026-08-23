@@ -2,7 +2,7 @@
 
 I am a developer who uses AI tools to build 10x faster and deliver precision products with high speed.
 
-### 🚀 What I Do
+### What I Do
 * **Solo Developer & Creator:** Built and deployed the full-stack tracking dashboard for a popular YouTube study community (**Factorial Academy**), serving 600+ active students.
 * **AI-Assisted Engineering:** Using AI as a force multiplier to handle design, front-end logic, and database integrations at lightning speed.
 
