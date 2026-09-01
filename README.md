@@ -1,5 +1,13 @@
 # Shree here !
 
+
+
+### 📊 Projects
+* **[Factorial Academy Web Platform](https://www.factorialacademy.com)** *Built a full-featured JEE preparation dashboard for a YouTube educator's student community.*
+  * Features live online student counter, custom revision notes engine, QOTD library, teacher analytics, and live leaderboards.
+  * *Tech:* Vanilla JS, CSS3, Firebase, GitHub Pages.
+
+---
 I am a developer who uses AI tools to build 10x faster and deliver precision products with high speed.
 
 ### What I Do
@@ -16,13 +24,6 @@ I am a developer who uses AI tools to build 10x faster and deliver precision pro
 * **Languages:** JavaScript (ES6+), Python, HTML5, CSS3
 * **Cloud:** Firebase (Firestore, Auth), GitHub Pages
 * **Workflows:** AI-Assisted Prompt Engineering, UI/UX  Design, Responsive Web Design
-
----
-
-### 📊 Projects
-* **[Factorial Academy Web Platform](https://www.factorialacademy.com)** *Built a full-featured JEE preparation dashboard for a YouTube educator's student community.*
-  * Features live online student counter, custom revision notes engine, QOTD library, teacher analytics, and live leaderboards.
-  * *Tech:* Vanilla JS, CSS3, Firebase, GitHub Pages.
 
 ---
 
