@@ -14,8 +14,8 @@ I am a developer who uses AI tools to build 10x faster and deliver precision pro
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,firebase,github,vscode)](https://skillicons.dev)
 
 * **Languages:** JavaScript (ES6+), Python, HTML5, CSS3
-* **Full-Stack & Cloud:** Firebase (Firestore, Auth), GitHub Pages, REST APIs
-* **Workflows:** AI-Assisted Prompt Engineering, UI/UX Glassmorphism Design, Responsive Web Design
+* **Cloud:** Firebase (Firestore, Auth), GitHub Pages
+* **Workflows:** AI-Assisted Prompt Engineering, UI/UX  Design, Responsive Web Design
 
 ---
 
